@@ -1,3 +1,6 @@
-# Fluxo Inicial
+# Fluxo inicial: acionado quando um novo usuário envia a primeira DM com uma palavra-chave de início. 
+A lógica desse fluxo é, inicialmente, saudar o usuário de forma amigável, apresentando uma breve descrição do que o chatbot pode fazer. 
+Em seguida, a lógica é dar autonomia e direcionamento para o início, oferecendo opções claras (como “Sim, vamos!”, “Quero saber mais”)
+para guiar o usuário. 
 
 
