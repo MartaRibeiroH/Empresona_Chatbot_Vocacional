@@ -22,7 +22,7 @@ O Chatbot Vocacional Inteligente da Empresona aborda diretamente a lacuna da ori
 demais pessoas interessadas, principalmente do público periférico. Estudantes periféricos, como a persona Laura dos Santos, enfrentam dúvidas sobre seu futuro 
 profissional, inseguranças sobre suas escolhas e têm dificuldade em encontrar informações confiáveis e personalizadas sobre carreiras e mercado de trabalho
 
-# Link para Teste
+# Links para Testes
 ManyChat: https://app.manychat.com/flowPlayerPage?share_hash=2897773_5220533ce6d745c124fb96708d69c90b34c7177c
 
 Instagran: @a.empresona
@@ -32,27 +32,37 @@ Blog: https://indecisive-roadway-236.notion.site/Empresona-seu-guia-vocacional-2
 # Propósito do Chatbot
 Mitigar a falta de clareza que muitas pessoas têm sobre o futuro profissional e carreiras, auxiliando na obtenção de informações sobre carreiras e profissões específicas, 
 visando o fornecimento de orientações assertivas e personalizadas.
+
 # Objetivo principal 
 Fornecer orientação profissional inteligente e personalizada, trazendo mais confiança e um senso de propósito na escolha profissional. O chatbot também pode atuar 
 na geração de leads para instituições de ensino e na qualificação de prospects para futuras oportunidades de carreira.
+
 # Público-alvo
 Egressos do ensino médio, jovens periféricos, vestibulandos, aprendizes e estagiários, pessoas que buscam informações mais assertivas sobre o mercado de trabalho e as profissões.
-Funcionalidades Principais: o nosso produto oferece um teste vocacional, coleta informações sobre interesses, habilidades e valores do usuário por meio de perguntas simples, 
+
+# Funcionalidades Principais
+O nosso produto oferece um teste vocacional, coleta informações sobre interesses, habilidades e valores do usuário por meio de perguntas simples, 
 faz recomendações personalizadas sugerindo áreas de atuação baseadas no perfil do usuário e direciona para o blog da Empresona, que apresenta descrições detalhadas sobre profissões e carreiras. 
+
 # Tecnologia
 O chatbot foi criado na plataforma no code ManyChat que utiliza Instagram Direct Message API para a integração
 
 *Os fluxos foram desenhados para guiar o usuário desde a primeira interação até a obtenção de recomendações personalizadas e acesso a conteúdos informativos 
 sobre carreiras e profissõesno blog Empresona* 
 
+
 # Principais fluxos  
 *Fluxo inicial:** Apresenta o chatbot e oferece opções de início para a interação.
+* [Fluxo Inicial](flows/Fluxo_Inicial.png)
 
 *Fluxo do Perfil Vocacional:** Coleta dados para traçar o perfil vocacional.
-
+* [Fluxo do Perfil Vocacional](flows/Fluxo_Perfil_Vocacional.png)
+  
 *Fluxo de Recomendações:** Apresenta as áreas de interesse e seus detalhes, direcionando para o blog da Empresona.
+* [Fluxo de Recomendações](flows/Fluxo_Recomendação_Perfil.png)
 
 *Para visualização da lógica e dos caminhos, consulte os screenshots na pasta `flows/`.*
+
 
 ## Roadmap de Desenvolvimento
 
