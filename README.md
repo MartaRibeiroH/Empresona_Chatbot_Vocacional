@@ -25,7 +25,7 @@ profissional, inseguranças sobre suas escolhas e têm dificuldade em encontrar 
 # Links para Testes
 ManyChat: https://app.manychat.com/flowPlayerPage?share_hash=2897773_5220533ce6d745c124fb96708d69c90b34c7177c
 
-Instagran: [@a.empresona](https://www.instagram.com/a.empresona/)
+Instagram: [@a.empresona](https://www.instagram.com/a.empresona/)
 
 Blog: https://indecisive-roadway-236.notion.site/Empresona-seu-guia-vocacional-2015daa559ff80e4bfe0c31c4e54afa8 
 
